@@ -2,6 +2,7 @@ import { Helmet } from "react-helmet-async";
 import ContactHero from "./ContactHero";
 import ContactForm from "./ContactForm";
 import InternalLinksArticle from "./InternalLinksArticle";
+import Article from "./Article";
 
 function Contact() {
   return (
@@ -30,6 +31,7 @@ function Contact() {
         <ContactHero />
         <ContactForm />
         <InternalLinksArticle />
+        <Article/>
       </main>
     </>
   );
