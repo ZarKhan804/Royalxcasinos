@@ -29,8 +29,9 @@ function DownloadHero() {
 
       {/* Main Content */}
       <div className="relative z-10 mx-auto w-full max-w-7xl px-4 py-6 sm:px-6 lg:px-8 lg:py-10">
+
         {/* Game Image */}
-        <div className="relative mx-auto mb-8 w-full max-w-5xl">
+        <div className="relative mx-auto mb-5 w-full max-w-5xl">
           <div
             aria-hidden="true"
             className="absolute left-1/2 top-1/2 h-[220px] w-[70%] -translate-x-1/2 -translate-y-1/2 rounded-full bg-yellow-400/30 blur-[100px]"
@@ -58,10 +59,36 @@ function DownloadHero() {
               </div>
             </div>
           </a>
+
+          {/* Buttons Directly Under Image */}
+          <div className="relative z-20 mt-5 flex flex-col justify-center gap-3 sm:flex-row sm:gap-4">
+
+            {/* Download Now */}
+            <a
+              href={gameReferralLink}
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Download Royal X Casino"
+              className="inline-flex min-w-[180px] items-center justify-center rounded-xl bg-gradient-to-r from-yellow-400 via-amber-500 to-yellow-500 px-7 py-3.5 text-sm font-extrabold text-gray-900 shadow-lg shadow-yellow-500/25 transition duration-300 hover:-translate-y-1 hover:shadow-yellow-500/40"
+            >
+              Download Now
+            </a>
+
+            {/* Learn More - Dummy Button */}
+            <button
+              type="button"
+              aria-label="Learn more about Royal X Casino"
+              className="inline-flex min-w-[180px] items-center justify-center rounded-xl border border-gray-300 bg-white/80 px-7 py-3.5 text-sm font-bold text-gray-800 shadow-sm transition duration-300 hover:-translate-y-1 hover:border-yellow-400 hover:bg-yellow-50"
+            >
+              Learn More
+            </button>
+
+          </div>
         </div>
 
         {/* Download Information */}
         <div className="mx-auto max-w-5xl text-center">
+
           {/* Label */}
           <p className="mb-4 inline-flex rounded-full border border-yellow-500/30 bg-white/70 px-4 py-2 text-xs font-bold uppercase tracking-[0.16em] text-yellow-700 shadow-sm backdrop-blur-sm">
             Royal X Casino Download
@@ -86,31 +113,9 @@ function DownloadHero() {
             started.
           </p>
 
-          {/* Buttons */}
-          <div className="mt-7 flex flex-col justify-center gap-4 sm:flex-row">
-            <a
-              href={gameReferralLink}
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="Access Royal X Casino"
-              className="inline-flex items-center justify-center rounded-xl bg-gradient-to-r from-yellow-400 via-amber-500 to-yellow-500 px-8 py-4 text-sm font-extrabold text-gray-900 shadow-xl shadow-yellow-500/20 transition duration-300 hover:-translate-y-1 hover:shadow-yellow-500/40"
-            >
-              Access Royal X Casino
-            </a>
-
-            <a
-              href={gameReferralLink}
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="Open Royal X Casino gaming platform"
-              className="inline-flex items-center justify-center rounded-xl border border-gray-300 bg-white/80 px-8 py-4 text-sm font-bold text-gray-800 shadow-sm transition duration-300 hover:-translate-y-1 hover:border-yellow-400 hover:bg-yellow-50"
-            >
-              Open Gaming Platform
-            </a>
-          </div>
-
           {/* Information Cards */}
           <div className="mx-auto mt-8 grid max-w-4xl grid-cols-1 gap-4 sm:grid-cols-3">
+
             <article className="rounded-2xl border border-gray-300/70 bg-white/70 p-5 text-left shadow-sm backdrop-blur-sm">
               <h2 className="text-sm font-extrabold text-gray-900">
                 Mobile Gaming
@@ -143,6 +148,7 @@ function DownloadHero() {
                 account information, and other website resources.
               </p>
             </article>
+
           </div>
         </div>
       </div>

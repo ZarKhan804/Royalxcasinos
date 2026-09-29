@@ -111,7 +111,7 @@ function Header() {
               onClick={closeMenu}
               className="inline-flex items-center rounded-xl bg-yellow-400 px-5 py-2.5 text-sm font-bold text-slate-950 shadow-lg shadow-yellow-400/10 transition duration-300 hover:-translate-y-0.5 hover:bg-yellow-300 hover:shadow-xl hover:shadow-yellow-400/20"
             >
-              Download
+              Play Now
             </NavLink>
           </div>
 
@@ -172,7 +172,7 @@ function Header() {
               onClick={closeMenu}
               className="mt-4 flex items-center justify-center rounded-xl bg-yellow-400 px-5 py-3 font-bold text-slate-950 transition duration-300 hover:bg-yellow-300"
             >
-              Download
+              Play Now
             </NavLink>
           </nav>
         </div>

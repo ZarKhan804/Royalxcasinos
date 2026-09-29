@@ -1,4 +1,3 @@
-
 import { Link } from "react-router-dom";
 
 function InternalLinksArticle() {
@@ -97,6 +96,40 @@ function InternalLinksArticle() {
               discover.
             </p>
 
+            {/* 15 RELATED ARTICLE TOPICS */}
+            <div className="border-t border-gray-300 pt-6">
+              <h3 className="text-xl font-bold text-gray-900">
+                Royal X Casino Related Articles
+              </h3>
+
+              <div className="mt-5 grid gap-x-10 gap-y-2 sm:grid-cols-2">
+
+                {/* LEFT SIDE */}
+                <div className="space-y-2">
+                  <p>• Royal X Casino Features and Platform Guide</p>
+                  <p>• Royal X Casino Mobile Gaming Experience</p>
+                  <p>• Royal X Casino Android App Guide</p>
+                  <p>• Royal X Casino iPhone & iOS Guide</p>
+                  <p>• Royal X Casino Registration Requirements</p>
+                  <p>• Royal X Casino Account Verification Guide</p>
+                  <p>• Royal X Casino Payment Methods Explained</p>
+                  <p>• Royal X Casino Deposit Guide</p>
+                </div>
+
+                {/* RIGHT SIDE */}
+                <div className="space-y-2">
+                  <p>• Royal X Casino Game Categories Explained</p>
+                  <p>• Royal X Casino Card Games Guide</p>
+                  <p>• Royal X Casino Live Casino Guide</p>
+                  <p>• Royal X Casino Gaming Interface Guide</p>
+                  <p>• Royal X Casino Terms and Conditions Guide</p>
+                  <p>• Royal X Casino Beginner's Guide</p>
+                  <p>• Royal X Casino Responsible Gaming Guide</p>
+                </div>
+
+              </div>
+            </div>
+
           </div>
         </article>
       </div>
@@ -105,4 +138,3 @@ function InternalLinksArticle() {
 }
 
 export default InternalLinksArticle;
-
