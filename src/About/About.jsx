@@ -7,11 +7,11 @@ function About() {
   return (
     <>
       <Helmet>
-        <title>About Royal X Casino 777 | Gaming Platform Information</title>
+        <title>About Royal X Casino  | Gaming Platform Information</title>
 
         <meta
           name="description"
-          content="Learn about Royal X Casino 777, its gaming platform, available features, mobile access, account guidance, and responsible gaming information."
+          content="Learn about Royal X Casino , its gaming platform, available features, mobile access, account guidance, and responsible gaming information."
         />
 
         <meta

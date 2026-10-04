@@ -19,7 +19,7 @@ function BlogHero() {
         <div className="mx-auto max-w-4xl text-center">
           {/* Label */}
           <div className="inline-flex rounded-full border border-yellow-500/30 bg-yellow-400/10 px-4 py-2 text-xs font-bold uppercase tracking-[0.2em] text-yellow-700">
-            Royal X Casino 777 Blog
+            Royal X Casino  Blog
           </div>
 
           {/* H1 */}
@@ -27,7 +27,7 @@ function BlogHero() {
             id="blog-page-title"
             className="mt-4 text-4xl font-black leading-tight tracking-tight text-gray-900 sm:text-5xl lg:text-6xl"
           >
-            Royal X Casino 777
+            Royal X Casino 
             <span className="block bg-gradient-to-r from-yellow-500 via-yellow-500 to-amber-600 bg-clip-text text-transparent">
               Gaming Guides & Insights
             </span>
@@ -35,7 +35,7 @@ function BlogHero() {
 
           {/* Introduction */}
           <p className="mx-auto mt-5 max-w-3xl text-sm leading-7 text-gray-600 sm:text-base lg:text-lg">
-            Explore Royal X Casino 777 guides, gaming information, mobile
+            Explore Royal X Casino  guides, gaming information, mobile
             access tips, account guidance, platform features, promotions,
             and responsible gaming resources.
           </p>
@@ -55,7 +55,7 @@ function BlogHero() {
             </h2>
 
             <p className="mt-2 text-sm leading-6 text-gray-600">
-              Learn about Royal X Casino 777 gaming information, platform
+              Learn about Royal X Casino  gaming information, platform
               navigation, and general gameplay topics.
             </p>
           </article>
@@ -66,7 +66,7 @@ function BlogHero() {
             </h2>
 
             <p className="mt-2 text-sm leading-6 text-gray-600">
-              Explore information about accessing Royal X Casino 777 on
+              Explore information about accessing Royal X Casino  on
               supported smartphones, tablets, and mobile devices.
             </p>
           </article>

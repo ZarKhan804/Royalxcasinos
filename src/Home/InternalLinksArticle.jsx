@@ -15,7 +15,7 @@ function InternalLinksArticle() {
             id="royal-x-useful-pages"
             className="text-2xl font-extrabold leading-tight text-gray-900 sm:text-3xl"
           >
-            Royal X Casino 777 Useful Pages
+            Royal X Casino  Useful Pages
           </h2>
 
           <div className="mt-5 space-y-5 text-base leading-8 text-gray-600">

@@ -75,7 +75,7 @@ function GameSection() {
             id="royal-x-features-title"
             className="text-3xl font-black tracking-tight text-gray-900 sm:text-4xl md:text-5xl"
           >
-            Royal X Casino 777 Features
+            Royal X Casino  Features
             <span className="block bg-gradient-to-r from-yellow-500 via-amber-500 to-yellow-600 bg-clip-text text-transparent">
               Gaming & Platform Information
             </span>
@@ -116,7 +116,7 @@ function GameSection() {
 
             <div>
               <h3 className="text-xl font-bold text-gray-900 sm:text-2xl">
-                Royal X Casino 777 Gaming Platform
+                Royal X Casino  Gaming Platform
               </h3>
 
               <p className="mt-3">

@@ -8,11 +8,11 @@ function Home() {
   return (
     <>
       <Helmet>
-        <title>Royal X Casino 777 real game in Pakistan</title>
+        <title>Royal X Casino  real game in Pakistan</title>
 
         <meta
           name="description"
-          content="Explore Royal X Casino 777, including gaming features, mobile access, account information, promotions, download guidance, and responsible gaming information."
+          content="Explore Royal X Casino , including gaming features, mobile access, account information, promotions, download guidance, and responsible gaming information."
         />
 
         <meta name="robots" content="index, follow, max-image-preview:large" />

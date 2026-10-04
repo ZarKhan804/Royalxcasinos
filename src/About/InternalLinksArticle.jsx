@@ -13,13 +13,13 @@ function InternalLinksArticle() {
             id="royal-x-related-pages"
             className="text-2xl font-extrabold leading-tight text-gray-900 sm:text-3xl"
           >
-            Royal X Casino 777 Related Pages
+            Royal X Casino  Related Pages
           </h2>
 
           <div className="mt-5 space-y-5 text-base leading-8 text-gray-600">
 
             <p>
-              Explore the main Royal X Casino 777 sections to learn more about
+              Explore the main Royal X Casino  sections to learn more about
               the <strong>Royal X Casino About</strong> information, gaming
               platform, available features, mobile access, account guidance,
               download options, and useful gaming resources.
@@ -32,7 +32,7 @@ function InternalLinksArticle() {
                 to="/"
                 className="font-semibold text-yellow-600 underline decoration-yellow-400 underline-offset-4 hover:text-yellow-700"
               >
-                Royal X Casino 777 Home Page
+                Royal X Casino  Home Page
               </Link>{" "}
               for an overview of the website and its available sections.
             </p>
@@ -51,7 +51,7 @@ function InternalLinksArticle() {
                 to="/blog"
                 className="font-semibold text-yellow-600 underline decoration-yellow-400 underline-offset-4 hover:text-yellow-700"
               >
-                Royal X Casino 777 Blog
+                Royal X Casino  Blog
               </Link>{" "}
               for articles covering platform features, gaming information,
               mobile access, account topics, and responsible gaming.
@@ -76,7 +76,7 @@ function InternalLinksArticle() {
                 to="/download"
                 className="font-semibold text-yellow-600 underline decoration-yellow-400 underline-offset-4 hover:text-yellow-700"
               >
-                Royal X Casino 777 Download & Access Guide
+                Royal X Casino  Download & Access Guide
               </Link>{" "}
               for relevant download and platform access information.
             </p>
@@ -90,7 +90,7 @@ function InternalLinksArticle() {
 
             <p>
               Connecting these related sections creates a clearer internal
-              navigation structure between the Royal X Casino 777 home page,
+              navigation structure between the Royal X Casino  home page,
               About information, gaming guides, contact resources, and download
               information while making important platform topics easier to
               discover.

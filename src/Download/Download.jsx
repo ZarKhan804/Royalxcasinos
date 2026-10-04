@@ -7,7 +7,7 @@ function Download() {
   return (
     <>
       <Helmet>
-        <title>Royal X Casino 777 download in Pakistan</title>
+        <title>Royal X Casino  download in Pakistan</title>
 
         <meta
           name="description"

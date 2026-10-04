@@ -13,7 +13,7 @@ const ContentSection = () => {
             id="royal-x-platform-overview"
             className="text-2xl font-extrabold text-gray-900 sm:text-3xl"
           >
-            Royal X Casino 777 Game
+            Royal X Casino  Game
           </h2>
 
           <div className="mt-6 space-y-5 text-base leading-8 text-gray-600">

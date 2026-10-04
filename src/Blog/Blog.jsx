@@ -7,11 +7,11 @@ function Blog() {
   return (
     <>
       <Helmet>
-        <title>Royal X Casino 777 Blog | Gaming Guides & Information</title>
+        <title>Royal X Casino  Blog | Gaming Guides & Information</title>
 
         <meta
           name="description"
-          content="Explore Royal X Casino 777 gaming guides, mobile access information, account guidance, platform features, promotions, and responsible gaming resources."
+          content="Explore Royal X Casino  gaming guides, mobile access information, account guidance, platform features, promotions, and responsible gaming resources."
         />
 
         <meta

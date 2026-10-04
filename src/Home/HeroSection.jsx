@@ -58,7 +58,7 @@ function HeroSection() {
 
                 <img
                   src={gameImage}
-                  alt="Royal X Casino 777 online gaming platform"
+                  alt="Royal X Casino  online gaming platform"
                   width="1200"
                   height="675"
                   loading="eager"
@@ -79,7 +79,7 @@ function HeroSection() {
               href={gameReferralLink}
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="Access Royal X Casino 777"
+              aria-label="Access Royal X Casino "
               className="inline-flex min-w-[190px] items-center justify-center rounded-xl bg-gradient-to-r from-yellow-400 via-amber-500 to-yellow-500 px-7 py-3.5 text-sm font-extrabold text-gray-900 shadow-lg shadow-yellow-500/25 transition duration-300 hover:-translate-y-1 hover:shadow-yellow-500/40"
             >
               Download Game
@@ -101,7 +101,7 @@ function HeroSection() {
 
           {/* LABEL */}
           <p className="mb-4 inline-flex rounded-full border border-yellow-500/30 bg-white/70 px-4 py-2 text-xs font-bold uppercase tracking-[0.16em] text-yellow-700 shadow-sm backdrop-blur-sm">
-            Royal X Casino 777 Gaming Platform
+            Royal X Casino  Gaming Platform
           </p>
 
           {/* MAIN SEO HEADING */}
@@ -109,7 +109,7 @@ function HeroSection() {
             id="royal-x-home-title"
             className="text-4xl font-black leading-[1.08] tracking-tight text-gray-900 sm:text-5xl md:text-6xl lg:text-7xl"
           >
-            Royal X Casino 777
+            Royal X Casino 
 
             <span className="block bg-gradient-to-r from-yellow-500 via-amber-500 to-yellow-600 bg-clip-text text-transparent">
               Online Gaming Platform
@@ -118,7 +118,7 @@ function HeroSection() {
 
           {/* DESCRIPTION */}
           <p className="mx-auto mt-5 max-w-3xl text-base leading-8 text-gray-600 sm:text-lg">
-            Explore Royal X Casino 777 and learn about its gaming features,
+            Explore Royal X Casino  and learn about its gaming features,
             mobile access, account options, download guidance, promotions,
             and general online gaming information.
           </p>
@@ -133,7 +133,7 @@ function HeroSection() {
               </h2>
 
               <p className="mt-2 text-xs leading-6 text-gray-500">
-                Find general information about accessing Royal X Casino 777
+                Find general information about accessing Royal X Casino 
                 and exploring its available platform sections.
               </p>
             </article>
@@ -145,7 +145,7 @@ function HeroSection() {
               </h2>
 
               <p className="mt-2 text-xs leading-6 text-gray-500">
-                Explore Royal X Casino 777 information on compatible
+                Explore Royal X Casino  information on compatible
                 smartphones, tablets, and other mobile devices.
               </p>
             </article>
@@ -171,7 +171,7 @@ function HeroSection() {
           <div className="mx-auto max-w-5xl rounded-2xl border border-gray-300 bg-white/60 p-6 text-center shadow-sm backdrop-blur-sm sm:p-8">
 
             <h2 className="text-2xl font-extrabold text-gray-900 sm:text-3xl">
-              Royal X Casino 777 Gaming Information
+              Royal X Casino  Gaming Information
             </h2>
 
             <div className="mt-6 grid gap-3 text-left sm:grid-cols-2">

@@ -74,19 +74,19 @@ function ContactForm() {
         {/* LEFT SIDE */}
         <div>
           <p className="text-center text-sm font-bold uppercase tracking-[0.2em] text-yellow-600 md:text-left">
-            Royal X Casino 777 Contact
+            Royal X Casino  Contact
           </p>
 
           <h2
             id="contact-form-title"
             className="mt-3 text-center text-3xl font-black text-slate-900 sm:text-4xl md:text-left"
           >
-            Contact Royal X Casino 777
+            Contact Royal X Casino 
           </h2>
 
           <p className="mt-5 text-center leading-8 text-slate-600 md:text-left">
             Have a question, suggestion, or feedback about Royal X Casino
-            777? Send us a message using the contact form and provide the
+            ? Send us a message using the contact form and provide the
             details needed to understand your request.
           </p>
 
@@ -137,7 +137,7 @@ function ContactForm() {
         {/* RIGHT SIDE */}
         <form
           onSubmit={handleSubmit}
-          aria-label="Royal X Casino 777 contact form"
+          aria-label="Royal X Casino  contact form"
           className="rounded-2xl border border-gray-300 bg-white p-6 shadow-sm sm:p-8"
         >
           {/* NAME */}
