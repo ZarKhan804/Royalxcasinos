@@ -278,7 +278,7 @@ function HeroSection() {
               Royal X Casino searches in Pakistan, including download, mobile 
               access, games, login, registration, and account-related topics. 
               Always use responsible judgment and check the latest available 
-              information before using any online gaming service. 
+              information before using any online gaming service 
             </p> 
  
           </article> 
