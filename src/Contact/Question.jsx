@@ -155,7 +155,7 @@ const questions = [
 
 function Question() {
   return (
-    <section className="bg-white py-12">
+    <section className="bg-[#E5E7EB] py-12">
       <div className="mx-auto max-w-6xl px-6 lg:px-8">
         <div className="mx-auto max-w-3xl text-center">
           <p className="text-sm font-bold uppercase tracking-widest text-yellow-600">
