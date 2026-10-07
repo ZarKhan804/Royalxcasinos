@@ -3,6 +3,7 @@ import ContactHero from "./ContactHero";
 import ContactForm from "./ContactForm";
 import InternalLinksArticle from "./InternalLinksArticle";
 import Article from "./Article";
+import Question from "./Question";
 
 function Contact() {
   return (
@@ -32,6 +33,7 @@ function Contact() {
         <ContactForm />
         <InternalLinksArticle />
         <Article/>
+        <Question/>
       </main>
     </>
   );
